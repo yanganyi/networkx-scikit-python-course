@@ -1,3 +1,3 @@
-# networkx scikit python course
- personal code bank
- this course is part of the prep for SIMC (Singapore International Mathematics and Computational Challenge) 2022
+# NetworkX Scikit Python Course
+ type: personal code bank (public)
+ this course is part of the prep for SIMC 2022

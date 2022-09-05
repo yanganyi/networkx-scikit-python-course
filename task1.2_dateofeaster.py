@@ -1,3 +1,7 @@
+# Task 1.2 - Date Of Easter
+# Given the year, find the date which Easter lands on in that year
+# https://en.wikipedia.org/wiki/Date_of_Easter
+
 year=int(input("Enter a year to calculate the date of Easter: "))
 a=year%19
 b=year%4

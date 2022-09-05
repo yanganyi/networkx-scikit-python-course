@@ -1,3 +1,16 @@
+# Task 1.3 - Ecommerce
+# 1.3.1 is the original task
+#  - implement 3 commands - buy, checkout and exit
+#  - the buy command prompts for item name and quantity
+#  - products, prices and quantity are predetermined, refer below
+# 1.3.2 includes:
+#  - taxation on the price
+#  - "view" command for store inventory and price
+#  - "remove" command to remove items from cart
+#  - removes the need to maintain both pricing and inventory table
+#  - search command to find items in store (advanced: fuzzy search algorithm)
+# 
+
 prices={
     "Bread":    0.42,
     "Milk":     1.69,
