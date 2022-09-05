@@ -7,9 +7,8 @@
 #  - taxation on the price
 #  - "view" command for store inventory and price
 #  - "remove" command to remove items from cart
-#  - removes the need to maintain both pricing and inventory table
 #  - search command to find items in store (advanced: fuzzy search algorithm)
-# 
+# 1.3.3 removes the need to maintain both pricing and inventory table (building on 1.3.2)
 
 prices={
     "Bread":    0.42,
