@@ -1,9 +1,9 @@
 # Lesson 4 - Cubic model applied on to a sine function
 # Using linear regression to fit a cubic model on to a sine wave
 # Somehow this code doesn't run on a conventional Python file so here we are
-# 4.1 contains the whole code (copy it out)
-# 4.2.1 contains code separated by parts
-# 4.2.2 contains the code as a whole
+# 4.1.1 contains the whole code (copy it out)
+# 4.1.2.1 contains code separated by parts in .ipynb
+# 4.1.2.2 contains the code as a whole in .ipynb
 
 from sklearn import linear_model
 import numpy as np
